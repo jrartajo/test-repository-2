@@ -1,5 +1,3 @@
-# test-repository-2
+# my very first repo
 
-THIS IS THE SECOND EXAMPLE
-
-This is another example
+JR IS VERY GOOD ENGR
